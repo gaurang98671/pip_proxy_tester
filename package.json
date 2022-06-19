@@ -1,0 +1,22 @@
+{
+  "name": "pip_proxy_tester",
+  "version": "1.0.0",
+  "description": "Dummy server to test pip_multi_platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurang98671/pip_proxy_tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurang98671/pip_proxy_tester/issues"
+  },
+  "homepage": "https://github.com/gaurang98671/pip_proxy_tester#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
